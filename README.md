@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @decentnamed.dev
-- 👀 I’m interested in Python, C/C++, C#, Java programming
+- 👀 I’m interested in Python, C#, Java programming
 - 🌱 I’m currently learning and trying to improve my skills in a best way 
 - 💞️ I’m looking to collaborate on... (I do not know yet?)
 - 📫 How to reach me ... (we will see, soon :> )
